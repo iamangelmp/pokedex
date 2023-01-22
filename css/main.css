@@ -1,0 +1,101 @@
+.pokemon-card{
+  display: block;
+  /* margin: 100px; */
+  margin-left: 3%;
+  margin-right: 3%;
+  margin-bottom: 7%
+  
+}
+
+.footer{
+  margin-bottom: 10%;
+}
+
+.pokemon_types{
+  display: flex;
+  text-align: center;
+  margin: auto;
+  padding: auto;
+  align-items: center;
+  justify-content: center;
+}
+
+.pokemon_item_details{
+  display: flex;
+  text-align: center;
+  margin: auto;
+  padding: auto;
+  align-items: center;
+  justify-content: center;
+  width: 60%;
+  margin-top: -10%;
+}
+
+
+.pokemon-modal{
+  margin: auto;
+  padding: auto;
+  align-items: center;
+  justify-content: center;
+}
+
+.spinner{
+  text-align: center;
+  padding-top: 20%;
+  padding-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.stat_pokemon_item{
+  margin-top: 2.5%;
+  margin-left: 2%;
+}
+
+.container_stats_items{
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.button-return{
+  width: 30px;
+  display: inline;
+  color:  white;
+  /* height: 100%; */
+}
+
+.stat_pokemon_item_button{
+  margin-top: 5%;
+}
+
+.alert_pokemon_search{
+  position: absolute;
+  text-align: center;
+  padding-top: 10%;
+  align-items: center;
+  justify-content: center;
+}
+
+.center-content{
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+
+.pokemon_not_found{
+  position: flex;
+  align-items: center;
+  
+  justify-content: center;
+  text-align: center;
+  
+  /* display: block;
+  padding-bottom: auto;
+  align-items: center;
+  
+  
+  justify-content: center; */
+}
